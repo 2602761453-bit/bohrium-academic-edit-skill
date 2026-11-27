@@ -65,7 +65,7 @@ description: Minimal-edit academic language polishing that preserves meaning, ev
 ### 第 0 步：读契约与正文
 
 1. 读 `case.json`，列出 `output_contract` 的全部键与值说明，抄进工作笔记。
-2. 读正文；记录体裁、语訃�Z�向、输入形态（纯文本 / Markdown / LaTeX / 混排）。
+2. 读正文；记录体裁、语言方向、输入形态（纯文本 / Markdown / LaTeX / 混排）。
 3. 标出**保护对象**：公式块、引用编号、图表编号、数值与单位、参考文献块。
 
 ### 第 1 步：冻结术语表
